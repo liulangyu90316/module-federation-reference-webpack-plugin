@@ -31,7 +31,7 @@ console.log(window.__MF_Share_Module_Call_Flow__);
 
 **Result**
 
-```json
+```js
 [
   {
     // Module called from which Container / APP.
