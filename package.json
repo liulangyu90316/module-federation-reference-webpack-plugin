@@ -1,0 +1,25 @@
+{
+  "name": "module-federation-reference-webpack-plugin",
+  "version": "1.0.0",
+  "description": "generate module references for webpack module federation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liulangyu90316/module-federation-reference-webpack-plugin.git"
+  },
+  "author": "liulangyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liulangyu90316/module-federation-reference-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/liulangyu90316/module-federation-reference-webpack-plugin#readme",
+  "peerDependencies": {
+    "webpack": "^5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}

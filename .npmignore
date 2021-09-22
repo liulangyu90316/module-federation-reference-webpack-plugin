@@ -1,0 +1,16 @@
+.vscode
+dist
+mock
+src
+test
+test/**
+scripts
+.editorconfig
+.eslintrc
+.fatherrc.js
+.webpack.config.js
+.stylelintrc.json
+coverage
+node_modules
+package-lock.json
+yarn.lock
